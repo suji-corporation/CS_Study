@@ -8,7 +8,7 @@
   ```
 - 파일명
   ```
-  [name]topic.md
+  [<name>]<topic>.md
   ```
 
 </br>
