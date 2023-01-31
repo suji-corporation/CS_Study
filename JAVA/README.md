@@ -1,0 +1,18 @@
+# ☕ JAVA 
+- [ ]  WORA(Write Once Run Anywhere)
+- [ ]  JVM 구조, 메모리 구조
+- [ ]  Garbage Collection(GC)
+- [ ]  자바 컴파일 과정
+- [ ]  Call by Value vs Call by Reference
+- [ ]  인터페이스 vs 추상클래스
+- [ ]  Static 키워드
+- [ ]  Final 키워드
+- [ ]  ==, equals 차이
+- [ ]  접근 제어자 종류와 특성
+- [ ]  오버라이딩 vs 오버로딩
+- [ ]  Object Class
+- [ ]  Wrapper Class
+- [ ]  Error vs Exception, CheckedException vs UnCheckedException
+- [ ]  Synchronized(동시성 처리)
+- [ ]  직렬화
+- [ ]  String vs StringBuffer vs StringBuilder
