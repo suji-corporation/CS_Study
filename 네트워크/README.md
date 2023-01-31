@@ -1,6 +1,6 @@
 # 🌐 네트워크
 
-- [ ]  OSI 7 계층
+- [ ]  네트워크 계층
 - [ ]  GET, POST 방식의 차이점
 - [ ]  TCP 3-way-handshake & 4-way-handshake
 - [ ]  TLS/SSL handshake
