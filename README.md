@@ -19,18 +19,13 @@
 - [ ]  GET, POST 방식의 차이점
 - [ ]  TCP 3-way-handshake & 4-way-handshake
 - [ ]  TLS/SSL handshake
-- [ ]  Load Balancing
 - [ ]  TCP 와 UDP 의 차이점
 - [ ]  HTTP 와 HTTPS 의 차이점 + HTTP 의 문제점들
-- [ ]  DNS round robin 방식
+    - [ ]  대칭키 & 공개키
 - [ ]  TCP/IP 흐름제어 & 혼잡제어
-- [ ]  대칭키 & 공개키
 - [ ]  Blocking,Non-blocking & Synchronous,Asynchronous
-- [ ]  Blocking & Non-Blocking I/O
-- [ ]  CORS란?
 - [ ]  쿠키와 세션
-- [ ]  Socket이란? Socket.io와 WebSocket의 차이
-- [ ]  Frame, Packet, Segment, Datagram
+- [ ]  CORS란?
 
 ## ⚙️ 운영체제
 
@@ -40,44 +35,40 @@
 - [ ]  인터럽트(interrupt)
 - [ ]  시스템 콜(System Call)
 - [ ]  PCB와 Context Switching
-- [ ]  IPC(Inter Process Communication)
 - [ ]  CPU 스케줄링
 - [ ]  데드락(DeadLock)
 - [ ]  Race Condition
 - [ ]  세마포어(Semaphore) & 뮤텍스(Mutex)
 - [ ]  페이징 & 세그먼테이션
-- [ ]  페이지 교체 알고리즘 (Swapping)
 - [ ]  메모리(Memory)
-- [ ]  파일 시스템
 - [ ]  외부 단편화와 내부 단편화
-- [ ]  사용자 수준 스레드와 커널 수준 스레드
+- [ ]  페이지 교체 알고리즘 (Swapping)
+- [ ]  IPC(Inter Process Communication)
 - [ ]  캐시의 지역성
 
 ## 🔐 데이터베이스
 
-- [ ]  Key(키)
-- [ ]  SQL Injection
-- [ ]  SQL - Join
-- [ ]  SQL vs NoSQL
-- [ ]  이상(Anomaly)
 - [ ]  인덱스(INDEX)
+- [ ]  객체 관계 매핑(Object-relational mapping, ORM)이란
+- [ ]  SQL vs NoSQL
 - [ ]  트랜잭션
+- [ ]  Key(키)
+- [ ]  SQL - Join
+- [ ]  이상(Anomaly)
 - [ ]  트랜잭션 격리수준
-- [ ]  데이터베이스 풀
-- [ ]  정규화(1차 2차 3차 BCNF)
-- [ ]  Statement와 PrepareStatement
+- [ ]  정규화 vs 반정규화
+- [ ]  SQL Injection
 - [ ]  옵티마이저(Optimizer)란
 - [ ]  Replication
 - [ ]  파티셔닝(Partitioning)
 - [ ]  샤딩(Sharding)
-- [ ]  객체 관계 매핑(Object-relational mapping, ORM)이란
 
 ## 🧩 자료구조 및 알고리즘
 
+- [ ]  B-Tree & B+Tree
 - [ ]  Array vs Linked List
 - [ ]  Stack and Queue
 - [ ]  Tree
-- [ ]  B-Tree & B+Tree
 - [ ]  최소신장트리(MST)
 - [ ]  트라이(Trie)
 - [ ]  Binary Heap
@@ -99,22 +90,20 @@
 - [ ]  옵저버 패턴
 
 ## ☕ JAVA 
+- [ ]  WORA(Write Once Run Anywhere)
+- [ ]  JVM 구조, 메모리 구조
+- [ ]  Garbage Collection(GC)
 - [ ]  자바 컴파일 과정
 - [ ]  Call by Value vs Call by Reference
 - [ ]  인터페이스 vs 추상클래스
-- [ ]  Object Class
-- [ ]  Wrapper Class
 - [ ]  Static 키워드
 - [ ]  Final 키워드
 - [ ]  ==, equals 차이
 - [ ]  접근 제어자 종류와 특성
-- [ ]  Throws vs Throw
-- [ ]  Error vs Exception, CheckedException vs UnCheckedException
-- [ ]  Reflection
-- [ ]  String vs StringBuffer vs StringBuilder
-- [ ]  JVM 메모리 구조
-- [ ]  JVM 구조, 동작 방식
-- [ ]  Garbage Collection(GC)
-- [ ]  Synchronized(동시성 처리)
 - [ ]  오버라이딩 vs 오버로딩
-- [ ]  직렬화 
+- [ ]  Object Class
+- [ ]  Wrapper Class
+- [ ]  Error vs Exception, CheckedException vs UnCheckedException
+- [ ]  Synchronized(동시성 처리)
+- [ ]  직렬화
+- [ ]  String vs StringBuffer vs StringBuilder
