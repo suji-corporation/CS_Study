@@ -4,7 +4,7 @@
 - 금요일 저녁 모의 인터뷰 진행 
 - 커밋 메시지   
   ```  
-  <type>: <subject> <date>
+  <subject> <date>
   ```
 - 파일명
   ```
