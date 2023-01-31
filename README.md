@@ -24,6 +24,6 @@
 ## 🎤 모의 면접
 | |MON|TUE|WED|THU|FRI|
 |---|---|---|---|---|---|
-|Week 1|네트워크 계층|GET, POST|TCP 3-way-handshake|TSL/SSL handshake|TCP & UDP|
-|Week 2|
+|Week 1||네트워크 계층|RESTful API|TCP 3-way-handshake|TSL/SSL handshake|
+|Week 2|TCP & UDP|
 |Week 3|
