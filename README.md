@@ -24,6 +24,6 @@
 ## 🎤 모의 면접
 | |MON|TUE|WED|THU|FRI|
 |---|---|---|---|---|---|
-|Week 1|OSI 7계층|GET, POST|TCP 3-way-handshake|TSL/SSL handshake|TCP & UDP|
+|Week 1|네트워크 계층|GET, POST|TCP 3-way-handshake|TSL/SSL handshake|TCP & UDP|
 |Week 2|
 |Week 3|
