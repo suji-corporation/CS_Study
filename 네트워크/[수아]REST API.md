@@ -108,11 +108,11 @@
 3. 슬래시는 계층 관계를 나타내는데 사용한다. 
 4. 언더바( _ ) 대신 하이폰( - )을 사용한다. 
 5. 파일확장자는 URI에 포함하지 않는다.
-6. 행위를 포함하지 않는다.
+6. 자원에 대한 행위는 HTTP Method로 표현하지만, URI에는 행위를 포함하지 않는다.
 
 
 </br>
 
-> 참고 
-> https://khj93.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-REST-API%EB%9E%80-REST-RESTful%EC%9D%B4%EB%9E%80
+> 참고         
+> https://khj93.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-REST-API%EB%9E%80-REST-RESTful%EC%9D%B4%EB%9E%80     
 > https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html
