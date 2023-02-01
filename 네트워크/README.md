@@ -1,7 +1,7 @@
 # 🌐 네트워크
 
-- [ ]  네트워크 계층
-- [ ]  GET, POST 방식의 차이점
+- [x]  네트워크 계층
+- [ ]  RESTful API
 - [ ]  TCP 3-way-handshake & 4-way-handshake
 - [ ]  TLS/SSL handshake
 - [ ]  TCP 와 UDP 의 차이점
