@@ -54,7 +54,7 @@
 2️⃣ B → A : ACK 
 
 - B는 확인 메시지 보내고 본인 통신 끝날 때까지 대기(TIME_WAIT)
-- (acknowledgement num = sequence num + 1, SYN & ACK 플래그 비트 : 1) → 패킷 전송
+- (acknowledgement num = sequence num + 1, ACK 플래그 비트 : 1) → 패킷 전송
 - **전송할 데이터가 남아있으면 계속 전송**
 - PORT 상태 : A(=FIN_WAIT), B(=CLOSE_WAIT)
 
@@ -66,7 +66,7 @@
 4️⃣ A → B : ACK
 
 - A는 확인했다는 메시지 전송
-- PORT 상태 : A(CLOSED), B(=CLOSED)
+- PORT 상태 : A(=CLOSED), B(=CLOSED)
 
 </br>
 
