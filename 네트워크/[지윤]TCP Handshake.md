@@ -3,7 +3,7 @@
 -   양 측 모두 **데이터를 전송할 준비가 되어있음**을 보장하기 위해 사전에 **세션을 수립**함
 -   실제로 데이터 전달이 시작되기 전에 수신 측이 데이터를 받을 준비가 되어 있다는 것을 알 수 있도록 함
 ![image](https://user-images.githubusercontent.com/64777557/216231718-f19e8dc2-e3b2-45f8-b49f-a279de688c0c.png)​
-#### **3-way hanshaking 과정**
+### **3-way hanshaking 과정**
 
 \* Host A(=클라이언트), Host B(=서버) 통신
 
@@ -22,7 +22,7 @@
 ## **4-way handshake**
 -   TCP의 **네트워크 연결을 해제**하는 과정
 ![image](https://user-images.githubusercontent.com/64777557/216233605-45969790-43d2-497b-b61e-f442448dacd2.png)​
-#### **4-way hanshaking 과정**
+### **4-way hanshaking 과정**
 
 \* Host A(=클라이언트), Host B(=서버) 통신
 
@@ -36,7 +36,7 @@
 
 </br></br>
 
-### **참고 - 포트 상태 정보**
+## **참고 - 포트 상태 정보**
 -   `CLOSED`: 포트가 닫힌 상태
 -   `LISTEN`: 포트가 열린 상태로 연결 요청 대기 상태
 -   `SYN_RCV`: SYN 요청을 수락하고 상대방의 응답 대기 상태
