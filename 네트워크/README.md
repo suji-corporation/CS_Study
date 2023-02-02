@@ -1,7 +1,7 @@
 # 🌐 네트워크
 
 - [x]  네트워크 계층
-- [ ]  REST API
+- [X]  REST API
 - [ ]  TCP 3-way-handshake & 4-way-handshake
 - [ ]  TLS/SSL handshake
 - [ ]  TCP 와 UDP 의 차이점
