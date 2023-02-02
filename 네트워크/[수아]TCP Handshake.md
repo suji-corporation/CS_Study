@@ -16,19 +16,19 @@
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/63537847/216234821-a3d8f599-3369-4de7-807e-2fab00ee6174.png">
 
 
-1️⃣ **A → B : SYN ** 
+1️⃣ A → B : SYN 
 
 - A가 연결 요청 메시지 전송 (SYN)
 - (sequence number : 랜덤 숫자, SYN 플래그 비트 : 1) ➡️ 패킷 전송
 - PORT 상태 : B(=LISTEN) A(=CLOSED → SYN_SENT)
 
-2️⃣ **B → A : SYN + ACK **
+2️⃣ B → A : SYN + ACK 
 
 - B가 요청 수락, A의 포트 열어 달라고 메시지 전송 (SYN + ACK)
 - (acknowledgement num = sequence num + 1, SYN & ACK 플래그 비트 : 1) ➡️ 패킷 전송
 - PORT 상태 : B(=SYN_RCV) A(=SYN_SENT)
 
-3️⃣ **A → B : ACK  **
+3️⃣ A → B : ACK 
 
 - PORT 상태 : B(=SYN_RCV) A(=ESTABLISHED)
 - A가 수락 확인을 보내고 연결을 맺음(ACK)
