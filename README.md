@@ -22,8 +22,8 @@
 6. [JAVA](/JAVA/README.md)
 
 ## 🎤 모의 면접
-| |MON|TUE|WED|THU|FRI|
-|---|---|---|---|---|---|
-|Week 1||네트워크 계층|RESTful API|TCP 3-way-handshake|TSL/SSL handshake|
-|Week 2|TCP & UDP|
+| |MON|TUE|WED|THU|FRI|SUN|
+|---|---|---|---|---|---|---|
+|Week 1||네트워크 계층|RESTful API|TCP 3-way-handshake|TCP & UDP||
+|Week 2||
 |Week 3|
