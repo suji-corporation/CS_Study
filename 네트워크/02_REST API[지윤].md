@@ -118,3 +118,4 @@
 -   "RESTful 하다": REST API를 제공하는 웹 서비스
 -   "RESTful 하지 않다": CRUD 기능을 모두 POST로 처리하거나 REST API 설계 원칙을 따르지 않은 경우
 -   REST를 REST답게 쓰기 위한 방법 (REST 원리를 따르는 시스템)
+
