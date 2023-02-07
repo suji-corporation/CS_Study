@@ -52,6 +52,9 @@
   1. Head of line blocking : 1번째 요청이 서버에서 시간이 너무 오래 걸리는 경우 뒤의 작업들도 늦어지는 것 
   2. Header 구조의 중복 : 연속된 요청의 경우 같은 값이 많아도 중복되게 보내서 데이터의 크기가 커짐
 
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/63537847/217195609-4f65c9f5-b524-4b64-8c58-3c6174013bfb.png">
+
+
 ### 4️⃣ HTTP/2.0
 - 기존 HTTP/1.X 버젼의 성능 향상에 초점을 둔 프로토콜
 - 표준의 대체가 아닌 **확장** 
