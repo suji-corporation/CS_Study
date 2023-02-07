@@ -48,11 +48,12 @@
   - 하나의 connection에서 응답을 기다리지 않고 순차적인 여러 요청을 연속으로 보내 그 순서에 맞춰 응답을 받는 방식
   - 지연 시간 감소 
 
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/63537847/217195609-4f65c9f5-b524-4b64-8c58-3c6174013bfb.png">
+
 **단점** 
   1. Head of line blocking : 1번째 요청이 서버에서 시간이 너무 오래 걸리는 경우 뒤의 작업들도 늦어지는 것 
   2. Header 구조의 중복 : 연속된 요청의 경우 같은 값이 많아도 중복되게 보내서 데이터의 크기가 커짐
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/63537847/217195609-4f65c9f5-b524-4b64-8c58-3c6174013bfb.png">
 
 
 ### 4️⃣ HTTP/2.0
