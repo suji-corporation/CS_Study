@@ -59,7 +59,7 @@ BLUE : TCP Handshake / YELLOW : TLS Handshake
 
 ### 5️⃣ Client Key Exchange, Change Ciper Spec (client → server) 
 - 전달하는 데이터 암호화해야 함 
-- 클라이언트는 데이터 암호화하기 위한  `대칭키` 생성 
+- 클라이언트는 데이터 암호화하기 위한  `대칭키(세션키)` 생성 
 - 대칭키를 서버만 볼 수 있도록 서버의 공개키로 암호화해서 서버에 전달 (Client Key Exchange)
 
 ### 6️⃣ Handshake Finished 
