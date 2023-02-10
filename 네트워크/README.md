@@ -7,7 +7,6 @@
 - [x]  TCP/IP 흐름제어 & 혼잡제어
 - [x]  HTTP 와 HTTPS 
 - [x]  대칭키 & 공개키
-- [ ]  TLS/SSL handshake
-- [ ]  Blocking,Non-blocking & Synchronous,Asynchronous
+- [x]  TLS/SSL handshake
 - [ ]  쿠키와 세션
 - [ ]  CORS란?
