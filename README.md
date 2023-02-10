@@ -1,7 +1,7 @@
 # CS_Study
 
 - 월 ~ 금 매일 주제 1개씩 공부하기 
-- 금요일 저녁 모의 인터뷰 진행 
+- 일요일 저녁 모의 인터뷰 진행 
 - 커밋 메시지   
   ```  
   <subject> <date>
@@ -24,6 +24,6 @@
 ## 🎤 모의 면접
 | |MON|TUE|WED|THU|FRI|SUN|
 |---|---|---|---|---|---|---|
-|Week 1||네트워크 계층|RESTful API|TCP 3-way-handshake|TCP & UDP||
-|Week 2||
+|Week 1||네트워크 계층|RESTful API|TCP 3-way-handshake|TCP & UDP|🟩|
+|Week 2|TCP 흐름제어&혼잡제어|HTTP & HTTPS|대칭키와 공개키|TLS/SSL Hanshake|쿠키와 세션||
 |Week 3|
