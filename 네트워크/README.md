@@ -8,5 +8,6 @@
 - [x]  HTTP 와 HTTPS 
 - [x]  대칭키 & 공개키
 - [x]  TLS/SSL handshake
-- [ ]  쿠키와 세션
+- [x]  쿠키와 세션
 - [ ]  CORS란?
+- [ ]  DNS 
