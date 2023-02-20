@@ -1,8 +1,8 @@
 # ⚙️ 운영체제
 
-- [ ]  blocking non blocking synchronous asynchronous
 - [ ]  프로세스 vs 스레드
 - [ ]  프로세스 주소 공간
+- [ ]  blocking, non-blocking, synchronous, asynchronous
 - [ ]  인터럽트(interrupt)
 - [ ]  시스템 콜(System Call)
 - [ ]  PCB와 Context Switching
