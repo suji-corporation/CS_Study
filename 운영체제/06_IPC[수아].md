@@ -45,7 +45,8 @@
       1. 반이중 통신 - 송/수신 모두 하려면 pipe 2개 필요 
 
 ### 3️⃣ 소켓(Socket)
-![image](https://user-images.githubusercontent.com/63537847/221481209-cc1f6a42-7fbd-4da9-9f90-a04ebc661bd5.png)
+![image](https://user-images.githubusercontent.com/63537847/221492415-da754d98-d357-4a6b-9c23-e82a0cf699da.png)
+
 
 - `네트워크 소켓` 통신을 통해 데이터 공유 
 - 데이터 교환을 위해 양쪽 PC에서 각각 임의의 포트의 정하고 해당 포트 간의 대화를 통해 데이터 주고 받는 방식 
