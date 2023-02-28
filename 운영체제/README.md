@@ -4,9 +4,9 @@
 - [x]  프로세스 메모리 구조
 - [x]  blocking, non-blocking, synchronous, asynchronous
 - [X]  인터럽트(interrupt) & 시스템콜(System Call)
-- [ ]  PCB와 Context Switching
-- [ ]  IPC(Inter Process Communication)
-- [ ]  CPU 스케줄링
+- [x]  PCB와 Context Switching
+- [x]  IPC(Inter Process Communication)
+- [x]  CPU 스케줄링
 - [ ]  데드락(DeadLock)
 - [ ]  Race Condition
 - [ ]  세마포어(Semaphore) & 뮤텍스(Mutex)
