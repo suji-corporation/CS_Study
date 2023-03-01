@@ -112,7 +112,7 @@
 
 </br>
 
-### **2-3) Multi-Level Queue(다단계 큐)**
+### **2-3) 다단계 큐(Multi-Level Queue)**
 
 ![image](https://user-images.githubusercontent.com/64777557/221787090-1a5b3107-579b-41f0-9a3c-2706c627c836.png)
 
