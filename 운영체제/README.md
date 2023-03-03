@@ -7,8 +7,8 @@
 - [x]  PCB와 Context Switching
 - [x]  IPC(Inter Process Communication)
 - [x]  CPU 스케줄링
-- [ ]  데드락(DeadLock)
-- [ ]  Race Condition
+- [X]  데드락(DeadLock)
+- [X]  Race Condition
 - [ ]  세마포어(Semaphore) & 뮤텍스(Mutex)
 - [ ]  페이징 & 세그먼테이션
 - [ ]  메모리(Memory)
