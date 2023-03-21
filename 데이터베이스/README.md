@@ -1,8 +1,7 @@
 # 🔐 데이터베이스
 
-- [ ]  인덱스(INDEX)
-- [ ]  객체 관계 매핑(Object-relational mapping, ORM)이란
-- [ ]  SQL vs NoSQL
+- [X]  인덱스(INDEX)
+- [X]  SQL vs NoSQL
 - [ ]  트랜잭션
 - [ ]  Key(키)
 - [ ]  SQL - Join
@@ -14,3 +13,4 @@
 - [ ]  Replication
 - [ ]  파티셔닝(Partitioning)
 - [ ]  샤딩(Sharding)
+- [ ]  객체 관계 매핑(Object-relational mapping, ORM)이란
