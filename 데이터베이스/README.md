@@ -2,7 +2,7 @@
 
 - [X]  인덱스(INDEX)
 - [X]  SQL vs NoSQL
-- [ ]  트랜잭션
+- [x]  트랜잭션
 - [x]  Key(키)
 - [x]  SQL - Join
 - [ ]  이상(Anomaly)
