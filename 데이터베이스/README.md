@@ -3,8 +3,8 @@
 - [X]  인덱스(INDEX)
 - [X]  SQL vs NoSQL
 - [ ]  트랜잭션
-- [ ]  Key(키)
-- [ ]  SQL - Join
+- [x]  Key(키)
+- [x]  SQL - Join
 - [ ]  이상(Anomaly)
 - [ ]  트랜잭션 격리수준
 - [ ]  정규화 vs 반정규화
