@@ -5,7 +5,7 @@
 - [x]  트랜잭션
 - [x]  Key(키)
 - [x]  SQL - Join
-- [ ]  이상(Anomaly)
+- [X]  이상(Anomaly)
 - [ ]  트랜잭션 격리수준
 - [ ]  정규화 vs 반정규화
 - [ ]  SQL Injection
