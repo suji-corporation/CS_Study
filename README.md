@@ -30,5 +30,5 @@
 |Week 4|프로세스vs스레드|프로세스 메모리 구조|동기&비동기 블로킹&논블로킹|인터럽트&시스템콜|Context Switching|✅|
 |Week 5|IPC|CPU 스케줄링||교착상태|경쟁상태|✅|
 |Week 6|내부단편화&외부단편화||페이징&세그먼테이션|페이지 교체 알고리즘|캐시 메모리|✅|
-|Week 7|INDEX|SQL&NoSQL|Transaction|Key|JOIN||
+|Week 7|INDEX|SQL&NoSQL|Transaction|Key|JOIN|✅|
 |Week 8|
