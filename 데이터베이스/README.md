@@ -6,8 +6,8 @@
 - [x]  Key(키)
 - [x]  SQL - Join
 - [X]  이상(Anomaly)
-- [ ]  트랜잭션 격리수준
 - [ ]  정규화 vs 반정규화
+- [ ]  트랜잭션 격리수준
 - [ ]  SQL Injection
 - [ ]  옵티마이저(Optimizer)란
 - [ ]  Replication
